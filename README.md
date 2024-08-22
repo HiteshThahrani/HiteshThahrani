@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HiteshThahrani
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Word press
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m @HiteshThahrani
+ I’m interested in Data Science
+I’m currently doing my bachelor's in Computer science
+
 
 <!---
 HiteshThahrani/HiteshThahrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
