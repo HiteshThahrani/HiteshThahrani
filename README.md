@@ -1,5 +1,5 @@
  Hi, I’m @HiteshThahrani
- I’m interested in Data Science
+ I’m interested in Web Development
 I’m currently doing my bachelor's in Computer science
 
 
