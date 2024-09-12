@@ -1,4 +1,4 @@
- Hi, I’m @HiteshThahrani
+ Hi, I’m @Hoondraj
  I’m interested in Web Development
 I’m currently doing my bachelor's in Computer science
 
